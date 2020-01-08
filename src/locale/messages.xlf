@@ -70,6 +70,13 @@
           <context context-type="linenumber">18</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="869becc1eb60a03864adf29c4ea53cd8655e8237" datatype="html">
+        <source> inner content</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/content.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
     </body>
   </file>
 </xliff>
