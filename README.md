@@ -1,7 +1,7 @@
 # angular-i18n-example
 
 ## 下指令 
-1.ng serve --configuaration=zh-tw</br> 或是
+1.ng serve --configuaration=zh-tw   或是</br> 
 2.ng s -c zh-tw
 
 ## 注意
